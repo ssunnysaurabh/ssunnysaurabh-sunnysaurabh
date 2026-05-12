@@ -35,8 +35,8 @@ Computer Science graduate passionate about building AI-powered applications usin
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/your-link
-- Email: yourmail@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/sunny-saurabh-287945236/)
+- Email: saurabhsunny62@gmail.com
 
 ---
 
