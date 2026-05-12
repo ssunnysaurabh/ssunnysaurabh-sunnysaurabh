@@ -1,12 +1,8 @@
-# ssunnysaurabh-sunnysaurabh
-Computer Science Graduate passionate about Generative AI, Python, Machine Learning, and building real-world AI applications.
-
 # Hi 👋, I'm Sunny Saurabh
 
 ## 🚀 AI & Python Developer
 
-Passionate Computer Science graduate focused on Generative AI, Python development, and Machine Learning projects.
-
+Computer Science graduate passionate about building AI-powered applications using Python, Generative AI, FastAPI, and Machine Learning.
 ---
 
 ## 🌱 Currently Learning
